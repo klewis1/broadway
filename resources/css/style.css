@@ -1,0 +1,43 @@
+* {
+  font-family: helvetica;
+  text-align: center;
+  color: gray;
+}
+
+h1, h2, h3  {
+  font-weight: bold;
+}
+
+h1  {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2  {
+  font-size: 32px;
+}
+
+h3  {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+nav ul li a {
+  font-size: 18px;
+  color: white
+}
+
+.callout  {
+  color:white;
+}
+
+footer  {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
