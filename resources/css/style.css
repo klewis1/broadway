@@ -26,6 +26,10 @@ p {
   font-size: 14px;
 }
 
+header{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
 nav ul li a {
   font-size: 18px;
   color: white
